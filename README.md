@@ -34,28 +34,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </p>
 
-  ## 🚀 Featured Projects
-
-  ### 1. [FoodStore](https://github.com/MinhxThanh/FoodStore)
-  A feature-rich Java-based Food Store application, demonstrating full-stack development skills, database management, and implementation of business logic.
-  
-  **Tech Stack:** `Java` `Spring Boot` `MySQL` `Hibernate` `RESTful APIs`
-
-  ### 2. [Android_ASM_Manage_Student](https://github.com/MinhxThanh/Android_ASM_Manage_Student)
-  A comprehensive Android application for efficient student and class management, demonstrating proficiency in mobile app development and local data management.
-  
-  **Tech Stack:** `Java` `Android SDK` `SQLite` `Material Design`
-
-  ### 3. [Angular_FE_Management_Project](https://github.com/MinhxThanh/Angular_FE_Management_Project)
-  A robust front-end application built with Angular, designed for streamlined project and task management, showcasing expertise in modern web development practices.
-  
-  **Tech Stack:** `Angular` `TypeScript` `RxJS` `CSS` `RESTful API Integration`
-
-  ### 4. [GroqAi-Telegram-Bot](https://github.com/MinhxThanh/GroqAi-Telegram-Bot)
-  An intelligent Telegram bot utilizing the Groq API to generate context-aware and engaging responses, showcasing integration of cutting-edge AI technologies.
-  
-  **Tech Stack:** `JavaScript` `Node.js` `Telegram Bot API` `Groq API`
-
   ## 🌱 Current Focus & Interests
 
   - Advancing skills in local AI models for text and image generation
