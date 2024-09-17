@@ -1,4 +1,4 @@
-  <h1 align="center">Lee Thanh | Full Stack Developer & AI Enthusiast 👨‍💻</h1>
+  <h1 align="center">Le Thanh | Full Stack Developer & AI Enthusiast 👨‍💻</h1>
 
   <p align="center">
     <a href="mailto:minhthanh@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
