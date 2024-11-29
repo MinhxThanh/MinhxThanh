@@ -53,6 +53,12 @@
 
   I'm passionate about pushing the boundaries of what's possible with technology. Currently, I'm exploring the fascinating world of local AI models for generating text and images, aiming to create more intelligent and responsive applications. This journey into AI is not just about coding – it's about reimagining how we interact with and benefit from technology in our daily lives.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinhxThanh/MinhxThanh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinhxThanh/MinhxThanh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MinhxThanh/MinhxThanh/output/github-snake.svg" />
+</picture>
+
   ## 🤝 Let's Connect
 
   I'm always open to discussing new projects, innovative ideas, or opportunities to be part of your vision. Feel free to reach out!
