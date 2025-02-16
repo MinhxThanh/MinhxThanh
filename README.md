@@ -71,9 +71,3 @@
       <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
     </a>
   </p>
-
-  ---
-
-  <p align="center">
-    <i>⭐️ From [MinhxThanh](https://github.com/MinhxThanh) - Let's build something amazing together! ⭐️</i>
-  </p>
